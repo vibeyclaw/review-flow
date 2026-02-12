@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.1](https://github.com/DGouron/review-flow/compare/reviewflow-v3.3.0...reviewflow-v3.3.1) (2026-02-12)
+
+
+### Fixed
+
+* **tracking:** remove averageScore from TrackedMr, use latestScore for MR cards ([c2d6f93](https://github.com/DGouron/review-flow/commit/c2d6f93380580e91bb31bc4d39f08c7189632706)), closes [#43](https://github.com/DGouron/review-flow/issues/43)
+* **tracking:** remove averageScore, use latestScore for MR cards ([cb8f572](https://github.com/DGouron/review-flow/commit/cb8f5723e4184cfb3d64e13a4f314eec385dee96))
+
 ## [3.3.0](https://github.com/DGouron/review-flow/compare/reviewflow-v3.2.0...reviewflow-v3.3.0) (2026-02-12)
 
 
